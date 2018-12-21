@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: Quick-Start Guide
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: Categories
+    url: /categories/
+  - title: Tags
+    url: /tags/	
+docs:
+  - title: Previous Offerings
+    children:
+      - title: F18
+        url: https://ucsb-cs56-f18.github.io
+      - title: M18
+        url: https://ucsb-cs56-m18.github.io
